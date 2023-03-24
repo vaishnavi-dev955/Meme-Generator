@@ -1,0 +1,38 @@
+.label-style {
+  color: #7e858e;
+  font-size: 20px;
+  font-family: 'Open Sans';
+}
+
+.input-style {
+  height: 45px;
+  width: 450px;
+  background-color: #ffffff;
+  border: 2px #7e858e solid;
+  color: #7e858e;
+  font-size: 18px;
+  padding-left: 20px;
+  border-radius: 10px;
+  margin-top: 5px;
+  font-family: 'Open Sans';
+}
+
+.select-container {
+  height: 45px;
+  width: 450px;
+  background-color: #ffffff;
+  border: 2px #7e858e solid;
+  color: #7e858e;
+  font-size: 18px;
+  padding-left: 20px;
+  border-radius: 10px;
+  margin-top: 5px;
+  font-family: 'Open Sans';
+}
+.main-container2 {
+  background-color: #d7dfe9;
+  height: 90vh;
+  width: 40vw;
+  border: 1px #d7dfe9 solid;
+  margin: 50px;
+}
